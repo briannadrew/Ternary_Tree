@@ -1,0 +1,11 @@
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.exe
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.deps.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.runtimeconfig.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.runtimeconfig.dev.json
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\bin\Debug\netcoreapp3.0\TernaryTree.pdb
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\obj\Debug\netcoreapp3.0\TernaryTree.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\obj\Debug\netcoreapp3.0\TernaryTree.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\obj\Debug\netcoreapp3.0\TernaryTree.AssemblyInfo.cs
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\obj\Debug\netcoreapp3.0\TernaryTree.dll
+C:\Users\brian\Desktop\University\COIS-3020H\Assignment2\TernaryTree\TernaryTree\obj\Debug\netcoreapp3.0\TernaryTree.pdb
